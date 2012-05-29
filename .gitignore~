@@ -3,8 +3,6 @@ target/
 *.sublime-project
 *.sublime-workspace
 
-.classpath
-.project
-.settings/
+
 
 
